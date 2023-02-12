@@ -1,5 +1,3 @@
-## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shreyas.
-#### 🎓 ABOUT ME
 I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cyber security Full Stack Web Developer🚀 and having keen interest in database management.
 
 :mailbox: Reach me out!
@@ -11,7 +9,7 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 
 
 <!-- TODO: Add last video link -->
-- 💬 I'm Looking for Internship Opportunities ;
+- 💬 I'm Looking for Internship/Full-Time Opportunities ;
 ##### 💻 TECHNOLOGIES I KNOW
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -19,18 +17,17 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Latex-information?style=flat-square&logo=latex)
+<!--
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-Latex-information?style=flat-square&logo=latex)
+-->
 
 
 <table>
