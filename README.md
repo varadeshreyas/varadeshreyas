@@ -2,7 +2,7 @@
 #### 🎓 ABOUT ME
 I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cyber security Full Stack Web Developer🚀 and having keen interest in database management.
 
-:mailbox: Reach me out!
+🤝 &nbsp; Connect with Me
 
 [![Twitter Badge](https://img.shields.io/badge/-@shreyas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shreyasvarade_2)](https://twitter.com/shreyasvarade_2) [![Linkedin Badge](https://img.shields.io/badge/-ShreyasVarade-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-varade) [![Mail Badge](https://img.shields.io/badge/-@shreyas-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/varade_shreyas/?hl=en) [![Mail Badge](https://img.shields.io/badge/-shreyas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shreyasvarade0201@gmail.com)
 
@@ -12,7 +12,7 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 
 <!-- TODO: Add last video link -->
 - 💬 I'm Looking for Internship/Full-Time Opportunities ;
-##### 💻 TECHNOLOGIES I KNOW
+##### 🛠 &nbsp; Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -31,13 +31,8 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 -->
 
-
-<table>
-  <tr>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=radical" />
-</td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=shreyas0201&show_icons=true&theme=radical" />
-</td>
-  </tr>
-</table>
+⚙️ &nbsp; Git Analytics
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasvarade0201&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasvarade0201&theme=dark&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasvarade0201&theme=dark&layout=compact" width="410" /></p>
 
