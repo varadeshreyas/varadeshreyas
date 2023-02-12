@@ -31,8 +31,14 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 -->
 
-⚙️ &nbsp; Git Analytics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasvarade0201&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasvarade0201&theme=dark&layout=compact" width="410" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasvarade0201&theme=dark&layout=compact" width="410" /></p>
+⚙️ &nbsp; Git Analytics:
 
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=radical" />
+</td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=shreyas0201&show_icons=true&theme=radical" />
+</td>
+	<td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnirajan1106&theme=dark&layout=compact" width="410" /></td>
+  </tr>
+</table>
