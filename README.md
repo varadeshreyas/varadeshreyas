@@ -43,7 +43,12 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
   </tr>
 </table>
 -->
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas0201&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=dark&layout=compact" width="410" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=dark&layout=compact" width="410" /></p>
+-->
+<tr>
+<td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=dark&layout=compact" width="410" /></td>
+<td>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=dark&layout=compact" width="410" /></td>
+</tr>
