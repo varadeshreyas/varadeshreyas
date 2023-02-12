@@ -17,13 +17,14 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 <!-- TODO: Make technologies links takes you to repositories -->
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-Latex-information?style=flat-square&logo=latex)
 <!--
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux)
@@ -32,24 +33,6 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 -->
 
 ⚙️ &nbsp; Git Analytics:
-<!--
-<table>
-  <tr>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=radical" width="410"/>
-</td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=shreyas0201&show_icons=true&theme=dark" />
-</td>
-	<td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=dark&layout=compact" width="410" /></td>
-  </tr>
-</table>
--->
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas0201&theme=dark&show_icons=true" /></p>
-<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=dark&layout=compact" width="410" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=dark&layout=compact" width="410" /></p>
--->
-<tr>
-<td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=dark&layout=compact" width="410" /></td>
-<td>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=dark&layout=compact" width="410" /></td>
-</tr>
