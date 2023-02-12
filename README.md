@@ -1,6 +1,6 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shreyas.
 #### 🎓 ABOUT ME
-I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cyber security Full Stack Web Developer🚀 and having keen interest in database management.
+I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cyber security, Full Stack Web Developer🚀 and having keen interest in database management.
 
 🤝 &nbsp; Connect with Me
 
