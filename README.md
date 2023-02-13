@@ -1,5 +1,5 @@
 <p align="center">
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200" width="450" height="320" />
 <p/>
 <h1 align="center"> Hi! I'm Shreyas <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <!--
