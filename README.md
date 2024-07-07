@@ -29,6 +29,6 @@ I'm Shreyas Varade Pursuing Bachelors Degree in Computer Science💻 majoring cy
 <hr>
 
 ⚙️ &nbsp; Git Analytics:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas0201&theme=radical&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas0201&theme=radical&layout=compact" width="410" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas0201&theme=radical&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=varadeshreyas&theme=radical&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadeshreyas&theme=radical&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varadeshreyas&theme=radical&layout=compact" width="410" /></p>
